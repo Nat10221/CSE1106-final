@@ -1,0 +1,8 @@
+    Temperature		System Status		Warning LED
+              0		WARNING			ON
+             68		NORMAL			OFF
+             73		NORMAL			OFF
+             78		WARNING			ON
+            100		WARNING			ON
+
+    The Average Temperature is 63
