@@ -1,0 +1,5 @@
+1. My primary contributions were connecting the circuit board to the Raspberry Pi and printing the files and temperature changes.
+2. The most challenging technical problem was getting the results to print in the file without segmentation faulting.
+3. We used test cases to make sure our LEDs lit up.
+4. The circuitry was the most useful.
+5. Make the formatting consistently right or left justified.
