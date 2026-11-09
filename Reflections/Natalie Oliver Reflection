@@ -1,0 +1,9 @@
+Natalie Oliver 1002386707
+1. Coding logic and syntax + GITHUB control
+2. Formatting our results in the output file
+3. we compiled and ran repeatedly to determine the cause of the seg	
+   fault in a for loop, using the file's contents as a point to determi-
+   ne where the program failed
+4. GITHUB Commands
+5. The readability of the code, I would add more protections from bad
+   inputs (like characters) 
